@@ -1,0 +1,4 @@
+ TEST RECORD                             	9/9/1999	  0  	
+ TEST RECORD                             	9/9/1999	  1  	
+ TEST RECORD                             	9/9/1999	  2  	
+ TEST RECORD                             	9/9/1999	  3  	
