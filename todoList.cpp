@@ -9,7 +9,7 @@
 #include <string>
 #include <fstream>
 using namespace std;
-
+ 
 // friend functions (used by multiple classes) - don't work under classes...?
 void testMethod(string msg, int cVal, int tVal) {
 // This TODO method performs equality tests on class methods. (msg = display
